@@ -1,3 +1,7 @@
+size: 54x56
+sum: 391 plates
+
+- 48x48 gray baseplate: 2
 
 Red [21]
 - 1x1: 12
