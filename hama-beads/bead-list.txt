@@ -1,0 +1,16 @@
+size: 28x28
+sum: 617 beads
+
+ 224 green
+ 125 light gray
+  60 white
+  57 dark gray
+  43 red
+  43 black
+  20 yellow
+  18 orange
+  12 blue
+   7 dark red
+   6 pink
+   2 light green
+
